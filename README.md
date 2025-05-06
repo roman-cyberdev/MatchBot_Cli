@@ -14,3 +14,7 @@ MatchBot is a simple command-line tool to track upcoming esports matches by game
 pip install -r requirements.txt
 python matchbot/cli.py dota2
 ```
+
+Author
+
+Created by [@roman-cyberdev](https://github.com/roman-cyberdev/)
